@@ -1,1 +1,1 @@
-Модуль 1. Змінні та типи. Основи функцій
+GoIT-BC70-Javascript3.0-HomeWorks
